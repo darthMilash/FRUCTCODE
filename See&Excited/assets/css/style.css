@@ -272,6 +272,72 @@ font-size: 0.8em;
     padding-left: 2%;
 }
 
+.send {
+    margin-bottom: 4%;
+}
+
+.send input[type="text"], textarea {
+    border: solid 1px #c3c3c3;
+    margin-bottom: 2%;
+}
+
+.send input[type="text"] {
+    width: 98%;
+}
+
+.send textarea {
+    width: 624px;
+    height: 200px;
+}
+
+.send input[type="submit"] {
+    background-color: #7268ad;
+    padding: 3%;
+    color: white;
+    border-radius: 5%;
+}
+
+.send_contact input[type="text"] {
+    width: 500px;
+  }
+  
+  .send_contact textarea {
+    width: 516px;
+  }
+
+  .info_films {
+      margin-bottom: 5%;
+      background-color: #f9f9f9;
+      padding: 5%;
+      height: 270px
+  }
+
+  .info_films img {
+      float: left;
+      margin-right: 2%;
+      border-radius: 5px;
+      border: solid 5px #dad7d5;
+      width: 25%;
+  }
+
+.button {
+    background-color: #7268ad;
+    padding: 2%;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    margin-top: 5%;
+    clear: both;
+    font-size: 0.8em;
+}
+
+.button a {
+    color: white;
+    text-decoration: none;
+    
+
+}
+
 .footer {
     width: 100%;
     height: 100%;
